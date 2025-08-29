@@ -1,8 +1,14 @@
 {
   "title": "Truyền Thuyết Đức Phật",
-  "cover": "cover": "https://raw.githubusercontent.com/thuvientruyenmau/mangacolor-library-1/main/covers/truyenthuyetducphat.jpg",
+  "cover": "https://raw.githubusercontent.com/thuvientruyenmau/mangacolor-library-1/main/covers/truyenthuyetducphat.jpg",
   "chapters": [
-    { "name": "Chap 1", "url": "https://raw.githubusercontent.com/thuvientruyenmau/mangacolor-library-1/main/chapters/truyenthuyetducphat/truyenthuyetducphat001.html" },
-    { "name": "Chap 2", "url": "https://raw.githubusercontent.com/thuvientruyenmau/mangacolor-library-1/main/chapters/truyenthuyetducphat/truyenthuyetducphat002.html" }
+    {
+      "name": "Chap 1",
+      "url": "https://raw.githubusercontent.com/thuvientruyenmau/mangacolor-library-1/main/chapters/truyenthuyetducphat/truyenthuyetducphat001.html"
+    },
+    {
+      "name": "Chap 2",
+      "url": "https://raw.githubusercontent.com/thuvientruyenmau/mangacolor-library-1/main/chapters/truyenthuyetducphat/truyenthuyetducphat002.html"
+    }
   ]
 }

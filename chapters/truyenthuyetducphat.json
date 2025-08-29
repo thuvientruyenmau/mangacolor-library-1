@@ -1,8 +1,8 @@
 {
   "title": "Truyền Thuyết Đức Phật",
-  "cover": "https://raw.githubusercontent.com/username/mangacolor-library-1/main/covers/naruto.jpg",
+  "cover": "https://github.com/thuvientruyenmau/mangacolor-library-1/tree/main/covers/truyenthuyetducphat.jpg",
   "chapters": [
-    { "name": "Chap 1", "url": "https://username.github.io/mangacolor-library-1/naruto/chap1.html" },
-    { "name": "Chap 2", "url": "https://username.github.io/mangacolor-library-1/naruto/chap2.html" }
+    { "name": "Chap 1", "url": "https://github.com/thuvientruyenmau/mangacolor-library-1/tree/main/chapters/truyenthuyetducphat/truyenthuyetducphat001.html" },
+    { "name": "Chap 2", "url": "https://github.com/thuvientruyenmau/mangacolor-library-1/tree/main/chapters/truyenthuyetducphat/truyenthuyetducphat002.html" }
   ]
 }

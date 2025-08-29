@@ -1,0 +1,14 @@
+[
+  {
+    "id": "naruto",
+    "title": "Naruto",
+    "cover": "https://raw.githubusercontent.com/username/mangacolor-library-1/main/covers/naruto.jpg",
+    "chaptersJson": "https://raw.githubusercontent.com/username/mangacolor-library-1/main/chapters/naruto.json"
+  },
+  {
+    "id": "onepiece",
+    "title": "One Piece",
+    "cover": "https://raw.githubusercontent.com/username/mangacolor-library-1/main/covers/onepiece.jpg",
+    "chaptersJson": "https://raw.githubusercontent.com/username/mangacolor-library-1/main/chapters/onepiece.json"
+  }
+]

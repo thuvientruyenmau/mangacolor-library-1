@@ -1,0 +1,8 @@
+{
+  "title": "Truyền Thuyết Đức Phật",
+  "cover": "https://raw.githubusercontent.com/username/mangacolor-library-1/main/covers/naruto.jpg",
+  "chapters": [
+    { "name": "Chap 1", "url": "https://username.github.io/mangacolor-library-1/naruto/chap1.html" },
+    { "name": "Chap 2", "url": "https://username.github.io/mangacolor-library-1/naruto/chap2.html" }
+  ]
+}
